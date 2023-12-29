@@ -4,4 +4,6 @@ public class Book {
 
     private int version;
     private String ahmad;
+
+    private int numberOfPage;
 }
