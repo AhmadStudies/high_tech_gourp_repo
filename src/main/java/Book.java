@@ -15,5 +15,8 @@ public class Book {
     public void setBookName(String ahmad){
         this.bookName = bookName;
     }
+    public String getBookName(){
+        return bookName;
+    }
 
 }
