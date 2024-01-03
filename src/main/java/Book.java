@@ -1,4 +1,7 @@
 public class Book {
+    public static void main (String [] args){
+
+    }
     private String bookName;
     private String author;
 
@@ -18,4 +21,5 @@ public class Book {
     public String getName(){
         return name;
     }
+
 }
