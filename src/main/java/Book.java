@@ -4,12 +4,11 @@ public class Book {
 
     private int version;
     private String ahmad;
-    private String Elyas_A_Baheen;
-    private String name;
-    public void setName(String name){
-        this.name = name;
+
+    public void setAhmad(String ahmad){
+        this.ahmad = ahmad;
     }
-    public String getName(){
-        return name;
+    public String getAhmad(){
+        return ahmad;
     }
 }
