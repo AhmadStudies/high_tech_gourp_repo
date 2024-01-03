@@ -3,7 +3,16 @@ public class Book {
     private String author;
 
     private int version;
-    private String ahmad;
+    private String mahmod;
 
-    private int numberOfPage;
+
+    public void setMahmod(String mahmod){
+        this.mahmod = mahmod;
+    }
+
+
+    public String getMahmod(String mahmod){
+        return mahmod;
+    }
+
 }
