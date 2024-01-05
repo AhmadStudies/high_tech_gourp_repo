@@ -4,6 +4,7 @@ public class Book {
 
     private int version;
     private String ahmad;
+    private String mahmod;
 
     public void setAhmad(String ahmad){
         this.ahmad = ahmad;
