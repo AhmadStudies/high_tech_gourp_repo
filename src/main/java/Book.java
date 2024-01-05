@@ -24,4 +24,8 @@ public class Book {
         this.author = author;
     }
 
+    public void print(){
+        System.out.println(mahmod);
+    }
+
 }
