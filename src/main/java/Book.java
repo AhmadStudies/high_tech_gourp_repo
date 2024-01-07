@@ -45,8 +45,6 @@ public class Book {
         System.out.println(mahmod);
     }
 
-    public void setSomething(String something){
-            this.ahmad = something;
-    }
+
 
 }
