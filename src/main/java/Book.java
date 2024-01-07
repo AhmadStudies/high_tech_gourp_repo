@@ -9,18 +9,18 @@ public class Book {
     private String ahmad;
     private String mahmod;
 
+    private String Elyas;
+    public void setElyas(String Elyas){
+    }
+    public String getElyas(){
+        return Elyas;
+    }
+
     public void setAhmad(String ahmad){
         this.ahmad = ahmad;
     }
     public String getAhmad(){
         return ahmad;
-    }
-    private String name;
-    public void setName(String name){
-
-    }
-    public String getName(){
-        return name;
     }
 
     public void setBookName(String ahmad){
