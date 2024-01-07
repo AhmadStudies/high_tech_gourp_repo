@@ -5,7 +5,6 @@ public class Book {
     private String bookName;
     private String author;
 
-    private String bookModel;
     private int version;
     private String ahmad;
     private String mahmod;
