@@ -24,8 +24,13 @@ public class Book {
         this.author = author;
     }
 
+    public void setMahmod(String mahmod){
+        this.mahmod = mahmod;
+    }
     public void print(){
         System.out.println(mahmod);
     }
+
+
 
 }
