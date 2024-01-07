@@ -8,21 +8,12 @@ public class Book {
     private int version;
     private String ahmad;
 
-    public void setAhmad(String ahmad){
-        this.ahmad = ahmad;
+    private String Elyas;
+    public void setElyas(String Elyas){
     }
-    public String getAhmad(){
-        return ahmad;
+    public String getElyas(){
+        return Elyas;
     }
-    private String name;
-    public void setName(String name){
-
-    }
-    public String getName(){
-        return name;
-    }
-
-
     public void setAhmad(String ahmad){
         this.ahmad = ahmad;
     }
