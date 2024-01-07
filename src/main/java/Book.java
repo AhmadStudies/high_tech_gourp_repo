@@ -22,14 +22,6 @@ public class Book {
         return name;
     }
 
-
-    public void setAhmad(String ahmad){
-        this.ahmad = ahmad;
-    }
-    public String getAhmad(){
-        return ahmad;
-    }
-
     public void setBookName(String ahmad){
         this.bookName = bookName;
     }
