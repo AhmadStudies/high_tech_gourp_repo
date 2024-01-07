@@ -27,6 +27,10 @@ public class Book {
     public void setMahmod(String mahmod){
         this.mahmod = mahmod;
     }
+
+    public String getMahmod(){
+        return mahmod;
+    }
     public void print(){
         System.out.println(mahmod);
     }
