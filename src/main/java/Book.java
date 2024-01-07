@@ -7,6 +7,7 @@ public class Book {
 
     private int version;
     private String ahmad;
+    private String mahmod;
 
     public void setAhmad(String ahmad){
         this.ahmad = ahmad;
@@ -32,5 +33,18 @@ public class Book {
     public void setAuthor(String author){
         this.author = author;
     }
+
+    public void setMahmod(String mahmod){
+        this.mahmod = mahmod;
+    }
+
+    public String getMahmod(){
+        return mahmod;
+    }
+    public void print(){
+        System.out.println(mahmod);
+    }
+
+
 
 }
