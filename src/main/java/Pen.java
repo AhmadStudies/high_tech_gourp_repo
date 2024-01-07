@@ -4,4 +4,6 @@ public class Pen {
 
     private String date;
 
+    private String penModel;
+
 }
