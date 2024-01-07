@@ -10,6 +10,7 @@ public class Book {
 
     private String Elyas;
     public void setElyas(String Elyas){
+        this.Elyas = Elyas;
     }
     public String getElyas(){
         return Elyas;
